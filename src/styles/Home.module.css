@@ -1,0 +1,36 @@
+.hero {
+  position: absolute;
+  top: -6rem;
+  left: 0;
+  z-index: -1;
+}
+
+.imageDiv {
+  width: 100%;
+  overflow: hidden;
+}
+
+.imageDiv > img {
+  width: 100vw;
+}
+
+.infoDiv {
+  position: relative;
+  top: -35rem;
+  padding-left: 6.5rem;
+}
+
+.infoDiv > h1 {
+  color: white;
+  font-size: 3.5rem;
+}
+
+.infoDiv > h1 > i {
+  color: #0000ff;
+  font-size: 4rem;
+  text-decoration: underline;
+}
+
+.infoDiv > div {
+  margin-top: 2rem;
+}
