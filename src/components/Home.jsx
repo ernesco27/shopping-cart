@@ -19,7 +19,7 @@ function Home() {
     <div>
       <section className={style.hero}>
         <div className={style.imageDiv}>
-          <img src="src/images/shopper.jpg" alt="shopper" />
+          <img src="images/shopper.jpg" alt="shopper" />
         </div>
         <div className={style.infoDiv}>
           <h1>
